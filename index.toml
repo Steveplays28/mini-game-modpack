@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "862a902374da5969fd509a6705faad4c8ea4c0d62f16043cb80c413d82723d8a"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "f676e34e511fe8cc257756e6ee2cb165e1a2b7a04cd20be15aabe68e106d2b87"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "5151a65aba6e89ccb4bd24f4463702cbf6ddccc07101ee079dbeab967048f332"
 
 [[files]]
 file = "config/letmedespawn.json"
