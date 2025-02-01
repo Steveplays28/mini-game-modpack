@@ -1,0 +1,13 @@
+name = "Compass Tracker"
+filename = "Compass-Tracker.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GvG2CaJa/versions/5LgDxQTL/Compass-Tracker.zip"
+hash-format = "sha1"
+hash = "5d35697188fef56486f2bc20a3eaa42dd8f07fad"
+
+[update]
+[update.modrinth]
+mod-id = "GvG2CaJa"
+version = "5LgDxQTL"

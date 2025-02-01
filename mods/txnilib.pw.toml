@@ -1,0 +1,13 @@
+name = "TxniLib"
+filename = "txnilib-fabric-1.0.22-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/JOKpd5pX/txnilib-fabric-1.0.22-1.21.1.jar"
+hash-format = "sha1"
+hash = "190fefcea1fef386e71f8d29d293c59b6b40cd46"
+
+[update]
+[update.modrinth]
+mod-id = "vBbPDuOs"
+version = "JOKpd5pX"

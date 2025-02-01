@@ -1,0 +1,13 @@
+name = "Fixed Iron Bars!"
+filename = "Patch's Iron Bars Fix v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hEP58hOj/versions/iPVP0cvk/Patch%27s%20Iron%20Bars%20Fix%20v1.0.zip"
+hash-format = "sha1"
+hash = "9dffea1085b894373cf1725d3d990f6a9199c236"
+
+[update]
+[update.modrinth]
+mod-id = "hEP58hOj"
+version = "iPVP0cvk"

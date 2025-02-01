@@ -1,0 +1,13 @@
+name = "Fire Rekindled"
+filename = "Fire_Rekindled.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lBQSreft/versions/QkwQFwsv/Fire_Rekindled.zip"
+hash-format = "sha1"
+hash = "e2feb3fb7f65307d39abf9f5d58d6c0860b42e2a"
+
+[update]
+[update.modrinth]
+mod-id = "lBQSreft"
+version = "QkwQFwsv"

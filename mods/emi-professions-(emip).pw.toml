@@ -1,0 +1,13 @@
+name = "EMI professions (EMIP)"
+filename = "EMIProfessions-fabric-1.21.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LGVihYcz/versions/jsB51EfG/EMIProfessions-fabric-1.21.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "159456171bcccdbcca9e309b26d521beec6f9a4d"
+
+[update]
+[update.modrinth]
+mod-id = "LGVihYcz"
+version = "jsB51EfG"

@@ -1,0 +1,13 @@
+name = "Better Selection"
+filename = "better-selection-1.6.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIpcAYJL/versions/VYSVsXnN/better-selection-1.6.4.jar"
+hash-format = "sha1"
+hash = "9bd9ce8c3214c58e7478d5729b6babeb1c1118fd"
+
+[update]
+[update.modrinth]
+mod-id = "xIpcAYJL"
+version = "VYSVsXnN"
