@@ -38,7 +38,7 @@ hash = "e5b34c2fcc407d970d5da03858c3f690b38d86ba1755ca1bbd2396745c80b6bc"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "5cb731845574c18175e0b89e736e52845bb808a7c94934bfd7bfc96cb72b18d3"
+hash = "893a28784eb603df546478e2240e5df4da52828d96d659912e01926a173e8757"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
