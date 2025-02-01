@@ -250,7 +250,7 @@ hash = "ac99279e8b3766b658f7cf2867736cfd78d7dc9bc11555fedb9f11f968b2c1ec"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "08cfcdd0a45edda84761aa3074fd87fb8f1af4feeeaf0eb37890c49259cd8963"
+hash = "436b2b85375571c370d0b5865370feaefa1737a89f5029ab61b091001856aae2"
 
 [[files]]
 file = "config/yosbr/too_many_shortcuts.json"

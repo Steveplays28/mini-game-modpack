@@ -48,8 +48,8 @@ mouseSensitivity:0.2544587291188993
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","minecraft:supporteatinganimation","itemswapper:default","cullleaves:smartleaves","file/Connected World v1.4 for 1.20.3.zip","file/connected_Trials[1.21+].zip","file/LowOnFire_1.21.zip","file/Fire_Rekindled.zip","file/better-new-compass.zip","file/Patch\u0027s Iron Bars Fix v1.1.zip","file/Pixlli V31 1.21-1.13 128x.zip"]
-incompatibleResourcePacks:["appleskin","badoptimizations","bookshelf","cherishedworlds","clientsort","concentration","controlling","distraction_free_recipes","emiprofessions","enchdesc","fog","jade","modernfix","mru","searchables","spark","txnilib","yet_another_config_lib_v3","file/Connected World v1.4 for 1.20.3.zip","file/better-new-compass.zip","file/Patch\u0027s Iron Bars Fix v1.1.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","minecraft:supporteatinganimation","itemswapper:default","cullleaves:smartleaves","file/Fire_Rekindled.zip","better-snow-coverage:z-fighting","file/LowOnFire 1.21.3.zip","file/Patch\u0027s Iron Bars Fix v1.0.zip","file/Pixlli V43 1.21.4-1.13 128x.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","bookshelf","cherishedworlds","clientsort","concentration","controlling","distraction_free_recipes","effortless","emiprofessions","enchdesc","fog","jade","modernfix","mru","searchables","spark","txnilib","yet_another_config_lib_v3","file/Patch\u0027s Iron Bars Fix v1.0.zip"]
 lastServer:
 lang:en_gb
 chatVisibility:0
@@ -129,6 +129,28 @@ key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.cavedust.toggle:key.keyboard.unknown
 key_key.cavedust.reload:key.keyboard.unknown
 key_key.clientsort.group.sort:key.mouse.middle
+key_key.effortless.settings.desc:key.keyboard.unknown
+key_key.effortless.build_mode_radial.desc:key.keyboard.left.alt
+key_key.effortless.passive_build_modifier.desc:key.keyboard.unknown
+key_key.effortless.undo.desc:key.keyboard.left.bracket
+key_key.effortless.redo.desc:key.keyboard.right.bracket
+key_key.effortless.toggle_clipboard.desc:key.keyboard.unknown
+key_key.effortless.toggle_pattern.desc:key.keyboard.unknown
+key_key.effortless.toggle_replace.desc:key.keyboard.unknown
+key_key.effortless.edit_clipboard.desc:key.keyboard.unknown
+key_key.effortless.edit_pattern.desc:key.keyboard.unknown
+key_key.effortless.move_left.desc:key.keyboard.left
+key_key.effortless.move_right.desc:key.keyboard.right
+key_key.effortless.move_forward.desc:key.keyboard.up
+key_key.effortless.move_backward.desc:key.keyboard.down
+key_key.effortless.move_up.desc:key.keyboard.page.up
+key_key.effortless.move_down.desc:key.keyboard.page.down
+key_key.effortless.rotate_x.desc:key.keyboard.unknown
+key_key.effortless.rotate_y.desc:key.keyboard.unknown
+key_key.effortless.rotate_z.desc:key.keyboard.unknown
+key_key.effortless.mirror_x.desc:key.keyboard.unknown
+key_key.effortless.mirror_y.desc:key.keyboard.unknown
+key_key.effortless.mirror_z.desc:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
 key_key.fog.toggle:key.keyboard.unknown
