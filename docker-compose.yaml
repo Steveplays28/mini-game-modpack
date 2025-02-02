@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   mc:
-    image: itzg/minecraft-server:java17-graalvm-ce
+    image: itzg/minecraft-server:java21-graalvm
     container_name: "mini_game_modpack"
     ports:
       - 25565:25565
