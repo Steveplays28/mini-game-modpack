@@ -459,11 +459,6 @@ hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "6d8a9a96532963568a64d4ee56cfc41877cb596f9458acd71ae367ad8001cc81"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "a8579482813e686001812b5fb065438cd063034675a54343c7a21707e58ef615"
 metafile = true
