@@ -644,10 +644,6 @@ hash = "8be221712480b667bc51a06817e5fb34b50590d663598f2d65cfa1b75ea44507"
 metafile = true
 
 [[files]]
-file = "mods/lodentityrendering-fabric-1.0.2+mc1.21.1.jar"
-hash = "5e19ac97d2670a0b9ea3119a2955d745da4a81798d00799a30d274059544182b"
-
-[[files]]
 file = "mods/logarithmic-volume-control.pw.toml"
 hash = "20a4bf2c580619192c03681679688521489d5ee9fc98b65b67c7f0f9908ffa9a"
 metafile = true
