@@ -733,10 +733,6 @@ hash = "278c6c8537558e1d374bced16f3b8ea34fbb24df5f3a1b6110b083a107b866d4"
 metafile = true
 
 [[files]]
-file = "mods/playeranimationrework-fabric-0.1.0+mc1.21.1.jar"
-hash = "101def9b525b447bb36da67b146e217347b6c1f49f015ec3542aee237fcf7f51"
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "39e64d09b38318d84cfc9415d1f1184d712c066c043369f708c45d592d0eb874"
 metafile = true
