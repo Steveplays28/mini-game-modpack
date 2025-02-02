@@ -189,6 +189,10 @@ file = "config/yosbr/config/particlerain.json5"
 hash = "61b171aaab0b066307a0bee217d1014e5d69c89c2be399fcf563d3b780b20e75"
 
 [[files]]
+file = "config/yosbr/config/plasmovoice/client.toml"
+hash = "243414b1063ba7cc2245ac23dc075358d751ca951bf4c55385e55a323ca39d2e"
+
+[[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
 hash = "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907"
 
@@ -254,11 +258,11 @@ hash = "ac99279e8b3766b658f7cf2867736cfd78d7dc9bc11555fedb9f11f968b2c1ec"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "436b2b85375571c370d0b5865370feaefa1737a89f5029ab61b091001856aae2"
+hash = "9915a79f74cf121349a11b3828a8d5ade72bf657fd5afc9ee5151741db421084"
 
 [[files]]
 file = "config/yosbr/too_many_shortcuts.json"
-hash = "fc789f7852d46541486c8e91e8fe1dbd20afdf44b7cc51ade5fd0b8dbb9397a5"
+hash = "e96b902d45ab59e55e5767d6e5b65734400f15386e8f559dd4f908e72211ca43"
 
 [[files]]
 file = "mod-loading-screen.pw.toml"
@@ -724,6 +728,11 @@ hash = "321106b9a028cb1aaff6a8f3dc138ca25abc6128c61ce28bb674b45ad8d39b64"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "278c6c8537558e1d374bced16f3b8ea34fbb24df5f3a1b6110b083a107b866d4"
+metafile = true
+
+[[files]]
 file = "mods/playeranimationrework-fabric-0.1.0+mc1.21.1.jar"
 hash = "101def9b525b447bb36da67b146e217347b6c1f49f015ec3542aee237fcf7f51"
 
@@ -740,6 +749,16 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "fd1b5dd6bffc8bbf5dcd65bb5b61458ec43eccbbbd7a7fa68a98c56f132a845c"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "d80f2086b4893a0d972b6d8c17d7582e50a10bec242ea0a6217b47077602d0a4"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-whisper.pw.toml"
+hash = "bdfab3cf87a21db9efc81f5414bdf56d2d720e09032f355496236e14360663d3"
 metafile = true
 
 [[files]]
