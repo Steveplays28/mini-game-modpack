@@ -640,6 +640,15 @@ hash = "64663662bd3ff0462976b3d8f6bc9b2fbef47ad4050e9731e877a552d1b76d84"
 metafile = true
 
 [[files]]
+file = "mods/localized-chat.pw.toml"
+hash = "8be221712480b667bc51a06817e5fb34b50590d663598f2d65cfa1b75ea44507"
+metafile = true
+
+[[files]]
+file = "mods/lodentityrendering-fabric-1.0.2+mc1.21.1.jar"
+hash = "5e19ac97d2670a0b9ea3119a2955d745da4a81798d00799a30d274059544182b"
+
+[[files]]
 file = "mods/logarithmic-volume-control.pw.toml"
 hash = "20a4bf2c580619192c03681679688521489d5ee9fc98b65b67c7f0f9908ffa9a"
 metafile = true
@@ -815,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
+metafile = true
+
+[[files]]
+file = "mods/stevesrealisticsleep.pw.toml"
+hash = "59c7e738fecdce57c026cdec8366257f0f43507bbd6afe2bba9d118d546477de"
 metafile = true
 
 [[files]]
