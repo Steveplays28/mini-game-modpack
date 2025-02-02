@@ -1,6 +1,6 @@
 name = "Localized Chat"
 filename = "LocalizedChat-fabric-1.21.1-5.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/c8zyAYHe/versions/vAc1XIgH/LocalizedChat-fabric-1.21.1-5.2.0.jar"

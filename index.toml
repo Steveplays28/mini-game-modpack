@@ -17,6 +17,10 @@ file = "config/letmedespawn.json"
 hash = "3daa62159d430b28044aa44a40274a4e209ab756bfc7f038b3f02e0b1a8f2850"
 
 [[files]]
+file = "config/localizedchat.toml"
+hash = "67291ec617768416c92d698fa3f15a16c928faafe86faf17125e113d8d7306c4"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c1f6ba95ca0f0a8fbafa3f6ed074622e75db5eac0cf5fee7c6a6a6f6f1275dcb"
 
@@ -205,6 +209,10 @@ file = "config/yosbr/config/reacharound.json"
 hash = "ea97da7a52cfbbb715e51ec2c1b7e2937f9cd6b733fcfc697674ea89bdc04ec8"
 
 [[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "63b7ea2063f8358e6759fbae7a2eae2b0b28b59c7de33316f86e4ce4909c0f3f"
+
+[[files]]
 file = "config/yosbr/config/shouldersurfing-client.toml"
 hash = "4433543190d09d7f355c4e648d7964c235bfa36a8c0f9f8ec86440b9aaad48cc"
 
@@ -366,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "ea05c9777b07949640ad1c193e7555541d1fa1d07af0248cd03278ae94cf5f75"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "c2001bf0c03f113ea838b54c67df4c44fc0489084a5ad18dfb29c0480a82c088"
 metafile = true
 
 [[files]]
@@ -640,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/localized-chat.pw.toml"
-hash = "8be221712480b667bc51a06817e5fb34b50590d663598f2d65cfa1b75ea44507"
+hash = "c0d1c9bb5a43bf8c7b3edf7459270c7c912dd09d2d76bf35baccd34224df2ce8"
 metafile = true
 
 [[files]]
