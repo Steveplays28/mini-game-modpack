@@ -1005,12 +1005,8 @@ file = "resources/datapack/required/manhunt_helper_functions/data/mini_game_modp
 hash = "fa7ff61603562007d831a316b162b87750c3335834f544a2dfc897970ff4a634"
 
 [[files]]
-file = "resources/datapack/required/manhunt_helper_functions/data/mini_game_modpack/function/manhunt/reset.mcfunction"
-hash = "881bab9db75aad95d7c71de14d0bc927dd1f9553a70a8201187851f230fe373e"
-
-[[files]]
 file = "resources/datapack/required/manhunt_helper_functions/data/mini_game_modpack/function/manhunt/start_with_random_teams.mcfunction"
-hash = "b1ba15eed4e187088a4a6db7a3bed37aa6eac87d779068b5cbb7fe36f526f9a0"
+hash = "dc1258f1975c3478c86bc67ed2d6b331f9d06db9ed33b75de441fb550068d4b3"
 
 [[files]]
 file = "resources/datapack/required/manhunt_helper_functions/pack.mcmeta"
@@ -1018,7 +1014,7 @@ hash = "11adea543631e660e6b3d04741db8df00c34da83180ceddd949d302e46da5a11"
 
 [[files]]
 file = "resources/datapack/required/mini_game_helper_functions/data/mini_game_modpack/function/end_mini_game.mcfunction"
-hash = "c2ed3f96bcf436907aa8db8bef9ea98586ca054ffba4c84bd68141e20adde987"
+hash = "3d6f37d1c880c65d95a31f09cbd38321ae5e12e9645a95efc2076bd93902200a"
 
 [[files]]
 file = "resources/datapack/required/mini_game_helper_functions/data/mini_game_modpack/function/notification/notify_mini_game_ended.mcfunction"
@@ -1046,7 +1042,11 @@ hash = "87a56148bec84dfa8c4491613aeb3e0a6b99229f29714e4533840c90e9119e95"
 
 [[files]]
 file = "resources/datapack/required/mini_game_lobby/data/mini_game_modpack/function/lobby/initialize.mcfunction"
-hash = "a3c526fcc49b536fe0390b39bfe0d5405a4c4281a6bb37f8536de54c4607e185"
+hash = "2a98ceb6226881f13935860e0a9720e097ad443f00c9569edbd02c003e7055ab"
+
+[[files]]
+file = "resources/datapack/required/mini_game_lobby/data/mini_game_modpack/function/lobby/set_global_spawn_point_to_lobby.mcfunction"
+hash = "4207cc6ca70363722d00eb2f5f2d0d9a05b0a61383bed54dbb1d5d5b8e5282c3"
 
 [[files]]
 file = "resources/datapack/required/mini_game_lobby/pack.mcmeta"

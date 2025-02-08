@@ -1,9 +1,14 @@
 function mini_game_modpack:manhunt/initialize
-function mini_game_modpack:manhunt/reset
+function mini_game_modpack:end_mini_game
 
 $execute as @a[sort=random,limit=$(hunter_count)] run team join Hunter
 execute as @a[team=] run team join Runner
+
+globalspawnpoint remove
+execute in minecraft:overworld run teleport @a 0.0 320.0 0.0
 gamemode survival @a
+effect give @a resistance 30 5
+effect give @a saturation 30 5
 
 tellraw @a {"text":"Manhunt mini-game","color":"gold","bold":true}
 tellraw @a {"text":""}
