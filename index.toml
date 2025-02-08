@@ -973,12 +973,24 @@ file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/m
 hash = "c7b6b17b7918a2e771707be9da2e70545696b7603aa6a8357012c492c8e70332"
 
 [[files]]
+file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/manhunt/function/load/recover-compass.mcfunction"
+hash = "953338c0a3436c28e6232a1cf822fc96421de46a9020dcecc0b37fa863ffc98e"
+
+[[files]]
 file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/manhunt/function/loop-core.mcfunction"
 hash = "b5e88d658f6b207d2df41d14a8bc843c80b615ba03d6cdd0101c0ca8d3bfe087"
 
 [[files]]
 file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/manhunt/function/loop/countdown.mcfunction"
 hash = "6c1927f9167ca4508b7ad8ec5ffc2f5b466ea884d5f97b53590f29a9acb05ff1"
+
+[[files]]
+file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/manhunt/function/loop/detect-dimension.mcfunction"
+hash = "8f1ae9e3a495e5b4c1d0fca708d64bf79bb2cbc123f511d6d6638a5bb8b7ab99"
+
+[[files]]
+file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/manhunt/function/loop/locate.mcfunction"
+hash = "75ad0e1566be2deec5c4eb1f94f002e4e494b47c832a1ca29f06a12d2ae15cf9"
 
 [[files]]
 file = "resources/datapack/required/manhunt_compass_tracker_modifications/data/manhunt/function/start.mcfunction"
@@ -990,7 +1002,7 @@ hash = "fae392747f26e0f9f574bd4252b0ca08171806644a648c7fdce0878adf75a186"
 
 [[files]]
 file = "resources/datapack/required/manhunt_helper_functions/data/mini_game_modpack/function/manhunt/initialize.mcfunction"
-hash = "9ecea82d568844eecf97f7550de56c574fabf2beb6eb65eda6683cc54a77ccad"
+hash = "fa7ff61603562007d831a316b162b87750c3335834f544a2dfc897970ff4a634"
 
 [[files]]
 file = "resources/datapack/required/manhunt_helper_functions/data/mini_game_modpack/function/manhunt/reset.mcfunction"
@@ -1034,7 +1046,7 @@ hash = "87a56148bec84dfa8c4491613aeb3e0a6b99229f29714e4533840c90e9119e95"
 
 [[files]]
 file = "resources/datapack/required/mini_game_lobby/data/mini_game_modpack/function/lobby/initialize.mcfunction"
-hash = "51340a1ef73d15bdc3f4a18c377e9a9c96cf1af82ea79bbd2a73d011f5ecbe4b"
+hash = "1881be47d1ec844202582f76b5e74fa1ddee24d47448c5dd722d427d12278bd5"
 
 [[files]]
 file = "resources/datapack/required/mini_game_lobby/pack.mcmeta"
