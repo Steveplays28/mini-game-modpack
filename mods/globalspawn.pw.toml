@@ -1,0 +1,13 @@
+name = "GlobalSpawn"
+filename = "globalspawn-2.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CfOfbtg4/versions/fzvGe508/globalspawn-2.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "95cb97995205067e4e2ac76a3485b5a07bcfcb34"
+
+[update]
+[update.modrinth]
+mod-id = "CfOfbtg4"
+version = "fzvGe508"
