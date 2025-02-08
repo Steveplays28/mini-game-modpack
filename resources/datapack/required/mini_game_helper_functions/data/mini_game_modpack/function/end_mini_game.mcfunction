@@ -4,6 +4,7 @@ kill @e[type=item]
 gamemode adventure @a
 clear @a
 effect clear @a
+experience set @a 0 levels
 team leave @a
 
 function mini_game_modpack:notification/notify_mini_game_ended

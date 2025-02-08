@@ -1009,7 +1009,7 @@ hash = "11adea543631e660e6b3d04741db8df00c34da83180ceddd949d302e46da5a11"
 
 [[files]]
 file = "resources/datapack/required/mini_game_helper_functions/data/mini_game_modpack/function/end_mini_game.mcfunction"
-hash = "3d6f37d1c880c65d95a31f09cbd38321ae5e12e9645a95efc2076bd93902200a"
+hash = "4df08fb2746c5e039dbdf704378c3deb3bc2e56f127e22268ea0bf6495c071e3"
 
 [[files]]
 file = "resources/datapack/required/mini_game_helper_functions/data/mini_game_modpack/function/notification/notify_mini_game_ended.mcfunction"
