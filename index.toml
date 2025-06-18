@@ -732,6 +732,10 @@ hash = "321106b9a028cb1aaff6a8f3dc138ca25abc6128c61ce28bb674b45ad8d39b64"
 metafile = true
 
 [[files]]
+file = "mods/plasmid-0.6.9999-local+1.21.1.jar"
+hash = "9b1a4bf9acf6c00422555d26b1e79569b9070a307d45a0cce364e05c7266de5d"
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "278c6c8537558e1d374bced16f3b8ea34fbb24df5f3a1b6110b083a107b866d4"
 metafile = true
@@ -743,6 +747,11 @@ hash = "75984434572a5046d9e2747aca5a6664186eefb30c5da012189a5ba56ae07bb5"
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "39e64d09b38318d84cfc9415d1f1184d712c066c043369f708c45d592d0eb874"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "946affbb757a3127f982af07772c9e457ed97be1010bb13d065a5971717281f0"
 metafile = true
 
 [[files]]
