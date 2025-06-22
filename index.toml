@@ -25,6 +25,10 @@ file = "config/modernfix-mixins.properties"
 hash = "c1f6ba95ca0f0a8fbafa3f6ed074622e75db5eac0cf5fee7c6a6a6f6f1275dcb"
 
 [[files]]
+file = "config/palladium_config.txt"
+hash = "8c0ccd2e53a237d794c2c90ba31e3593906ea3f97c7256ab6a7492ebcbd3cd8e"
+
+[[files]]
 file = "config/rrls.toml"
 hash = "c15529f9260adcd8a8fc37e977e6322ef1f11a90c44cc16742501c05831c4707"
 
