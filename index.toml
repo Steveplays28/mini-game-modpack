@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/stevesmanhuntminigame-fabric-1.0.0+mc1.21-1.21.1.jar"
-hash = "68b2f5f21b20e66e48fb5a0371a89f8fb94e4f8a90260cce26ec468ce3e5cddf"
+hash = "601ec979029511a06512bd375d8c584d506675dffc8212d1ff465edae45e08be"
 
 [[files]]
 file = "mods/stevesrealisticsleep.pw.toml"
