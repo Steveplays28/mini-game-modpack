@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "56da4e148921ce2685d14b561a76844b2bc091d6295680277b724c6014463195"
+hash = "f6d1af32eebbdf606f38a37c716dd6f847f5196d17a93980b5cb982aa04748d1"
 metafile = true
 
 [[files]]
