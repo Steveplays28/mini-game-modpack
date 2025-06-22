@@ -1,13 +1,13 @@
 name = "ServerCore"
-filename = "servercore-fabric-1.5.5+1.21.1.jar"
+filename = "servercore-fabric-1.5.10+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/wPZETsJM/servercore-fabric-1.5.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/FDzBkBBD/servercore-fabric-1.5.10%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "73a4b5e599e55e76bd3a53df55327ea65dd8b472"
+hash = "b18ce5438e3d1fe7bfcf2ad546a78ee9d57a24cf"
 
 [update]
 [update.modrinth]
 mod-id = "4WWQxlQP"
-version = "wPZETsJM"
+version = "FDzBkBBD"

@@ -1,13 +1,13 @@
 name = "Pixlli"
-filename = "Pixlli V43 1.21.4-1.13 128x.zip"
+filename = "Pixlli V52 1.21.6-1.13 128x.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/E8fGzGhh/versions/S7XmuAEc/Pixlli%20V43%201.21.4-1.13%20128x.zip"
+url = "https://cdn.modrinth.com/data/E8fGzGhh/versions/S0HzJpCH/Pixlli%20V52%201.21.6-1.13%20128x.zip"
 hash-format = "sha1"
-hash = "f80b8ae33cc11872cd0fba0fedf8d478327d09c7"
+hash = "e12b9ec1709b754c0bf9b7959ee3304049f175c4"
 
 [update]
 [update.modrinth]
 mod-id = "E8fGzGhh"
-version = "S7XmuAEc"
+version = "S0HzJpCH"

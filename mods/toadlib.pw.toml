@@ -1,14 +1,13 @@
 name = "ToadLib"
-filename = "ToadLib-1.21x-1.1.6.jar"
+filename = "ToadLib-1.3.1.1-1.21-1.21.1.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/CYQ7VYrM/versions/xhpnRgM3/ToadLib-1.21x-1.1.6.jar"
+url = "https://cdn.modrinth.com/data/CYQ7VYrM/versions/j1CEljoA/ToadLib-1.3.1.1-1.21-1.21.1.jar"
 hash-format = "sha1"
-hash = "2b4c99be8306e5ce8aa3fc7c345b51f16bce97b9"
+hash = "05b4bc54972ce2e591cbc1d8492ca104d8d7cc70"
 
 [update]
 [update.modrinth]
 mod-id = "CYQ7VYrM"
-version = "xhpnRgM3"
+version = "j1CEljoA"
