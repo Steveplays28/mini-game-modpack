@@ -82,7 +82,7 @@ hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
 
 [[files]]
 file = "config/yosbr/config/darkness.json5"
-hash = "de9ac6057bae0b6abb94cf6ef41569d3a03892efef1d68cb3f96f4022aee55c9"
+hash = "b52d4a4e6053eca446f1603b94c60d3e26a7f27f21e65474b5298d65ef5735d7"
 
 [[files]]
 file = "config/yosbr/config/distraction_free_recipes-client.toml"
