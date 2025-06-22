@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid-0.6.9999-local+1.21.1.jar"
-hash = "9b1a4bf9acf6c00422555d26b1e79569b9070a307d45a0cce364e05c7266de5d"
+hash = "a1498c9645cbf9db812881a8630cf4669401b67272190d89179998f399577e43"
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
