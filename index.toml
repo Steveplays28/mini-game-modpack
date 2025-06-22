@@ -919,6 +919,11 @@ hash = "e38442525f1bc14b77ff5360984a3ba387dc699479dcb2b38803e6901fbfe12a"
 metafile = true
 
 [[files]]
+file = "mods/worldborderfix.pw.toml"
+hash = "c1168cf9aafaa892b05c0cf88d881449684f287b1a6c0448b5981bea652ea9c2"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "fc61a89b9143064ca99140ba17264280e190ec79121b17e20407a579deba72e7"
 metafile = true
