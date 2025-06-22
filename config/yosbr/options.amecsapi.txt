@@ -1,0 +1,4 @@
+key_modifiers_key.plasmovoice.settings:1,0,0,0
+key_modifiers_iris.keybind.reload:1,0,0,0
+key_modifiers_iris.keybind.toggleShaders:1,0,0,0
+key_modifiers_iris.keybind.shaderPackSelection:1,0,0,0

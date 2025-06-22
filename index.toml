@@ -269,12 +269,12 @@ file = "config/yosbr/config/worldplaytime/config.json"
 hash = "ac99279e8b3766b658f7cf2867736cfd78d7dc9bc11555fedb9f11f968b2c1ec"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "9915a79f74cf121349a11b3828a8d5ade72bf657fd5afc9ee5151741db421084"
+file = "config/yosbr/options.amecsapi.txt"
+hash = "109ee5c661f7613fff709b3fea5bf99799b44d9f960bffb53524a4f4b151787f"
 
 [[files]]
-file = "config/yosbr/too_many_shortcuts.json"
-hash = "e96b902d45ab59e55e5767d6e5b65734400f15386e8f559dd4f908e72211ca43"
+file = "config/yosbr/options.txt"
+hash = "9915a79f74cf121349a11b3828a8d5ade72bf657fd5afc9ee5151741db421084"
 
 [[files]]
 file = "mod-loading-screen.pw.toml"
@@ -323,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "e00f3334e228a727160446f1722a53704acf110ed5d433f6300be60ff4119928"
+metafile = true
+
+[[files]]
+file = "mods/amecs-reborn.pw.toml"
+hash = "d87badc92717daa9a18947df0988dae8a159f13b465458c2c8cb4b3c9645cf97"
 metafile = true
 
 [[files]]
@@ -899,11 +904,6 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "10d1c2ae657df8a6425224524dd1639855f0399e1b91c5cc8cf4602227385590"
-metafile = true
-
-[[files]]
-file = "mods/too-many-shortcuts.pw.toml"
-hash = "ef096d3252447cc606f22424b82e32de9bf11e16159cfaf53fe5800884c8890b"
 metafile = true
 
 [[files]]

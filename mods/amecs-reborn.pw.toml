@@ -1,0 +1,13 @@
+name = "Amecs Reborn"
+filename = "Amecs-Reborn-2.0.2+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IjgEpZeq/versions/Npsjy3PD/Amecs-Reborn-2.0.2%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "b16e33c09ce89a8d8424deae472a6f2b5dcb719d"
+
+[update]
+[update.modrinth]
+mod-id = "IjgEpZeq"
+version = "Npsjy3PD"
