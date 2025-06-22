@@ -1,6 +1,6 @@
 name = "Multi World Borders"
 filename = "multiworldborders-1.6.4-fabric-1.20.5-rc2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/M7MroYMU/versions/yMH2mJB2/multiworldborders-1.6.4-fabric-1.20.5-rc2.jar"

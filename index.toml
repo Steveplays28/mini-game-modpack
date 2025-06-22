@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldborderfix.pw.toml"
-hash = "c1168cf9aafaa892b05c0cf88d881449684f287b1a6c0448b5981bea652ea9c2"
+hash = "a809691fe50a41e482e3868a52d905152a59176694a62b46069ea85a240dbaf6"
 metafile = true
 
 [[files]]
