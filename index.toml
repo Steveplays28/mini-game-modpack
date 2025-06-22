@@ -691,11 +691,6 @@ hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "36914310f5256edcaa471e6a35d316ea8e82c3ff4790c78febeea605f7f1bda7"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "be1d890694662f5ef8f5eecb4cadc6204e404e48d28a100eac5cd8ce7f6c1cc4"
 metafile = true
@@ -718,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9db90dbca5f74ae9eef6d3bfef116b2c93eb52e1151df241e35b358754594e95"
+metafile = true
+
+[[files]]
+file = "mods/palladium.pw.toml"
+hash = "b7a9c055562db6bd9d035d0f6a6f9368c92a54c92120835b3a4e13179e3ec600"
 metafile = true
 
 [[files]]
