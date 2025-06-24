@@ -601,6 +601,10 @@ hash = "0b6957df7770b45face66bf543483267fcd844fa384224dd69820c56b9c5c5d0"
 metafile = true
 
 [[files]]
+file = "mods/illuminated-1.0.1+1.21.1.jar"
+hash = "1d26b56d3f4d0342a4e25072cfdc870d4a0aca8283aec28e887b627bd39b90aa"
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
 metafile = true
@@ -897,6 +901,11 @@ hash = "5eae3b9c4bc7595fea83d1dfee6291a089fc8b0c93bccd0eda8718155489ab97"
 metafile = true
 
 [[files]]
+file = "mods/through-the-lily-pads-gently.pw.toml"
+hash = "ad8404bd9fdc7d280e173682ee8145dcc568e012b6fe34c6bd4257f1fbb0c697"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "43c56c0e15a459162eb4acbc0334f544badf9be44638a6f4d506f702898d6569"
 metafile = true
@@ -1070,20 +1079,12 @@ file = "resources/datapack/required/mini_game_lobby/pack.mcmeta"
 hash = "a2e7db16739ba9fb6b090ec273ecf2421cd5082e8e74aeaef71d46939d9153e7"
 
 [[files]]
-file = "shaderpacks/Bloop-1.3.0.zip"
-hash = "56743f4748b137189cf0b41e60d5eb5a2b3560d1b364110f1fce7c2604219043"
+file = "shaderpacks/Super-Duper-Vanilla-1.3.8-beta.4.zip"
+hash = "b17328c16ac354ab583d9325ccbcb288b7d4870d7a3235b50d33232e75bb6a7c"
 
 [[files]]
-file = "shaderpacks/Bloop-1.3.0.zip.txt"
-hash = "08f0df6133f24af36d7dea6c3aad6ef694a4a9d8451fead7e297c9fbe7765886"
-
-[[files]]
-file = "shaderpacks/Super-Duper-Vanilla-1.3.7.zip"
-hash = "c6e3968ae90769163084530d7240bad9a5fa5339ffe5dcf41f8a73a8b8150772"
-
-[[files]]
-file = "shaderpacks/Super-Duper-Vanilla-1.3.7.zip.txt"
-hash = "dd15a7cf29acb7a75b2365d94b58b4c695f8c5f7b877967a7b6607c59a4f368e"
+file = "shaderpacks/Super-Duper-Vanilla-1.3.8-beta.4.zip.txt"
+hash = "3bdad2ea18c706c82d5fb18a31c07d041e0302edda9dfa8543fc656e8029ef21"
 
 [[files]]
 file = "shaderpacks/photon-main.zip"
@@ -1091,4 +1092,4 @@ hash = "b21b6f2ae5ac3c5ba8614eb7b77935a2f4e1633cdffccf17c6db0e7f81cc94c3"
 
 [[files]]
 file = "shaderpacks/photon-main.zip.txt"
-hash = "3a517c4759601e0c72315f188f44873abcdb28f44cb4ec48820a075f6ba15861"
+hash = "4e68467387cfd111adc6e38da722ad0aaf0ca39550b40215e7589f3bb9e2e2f5"
