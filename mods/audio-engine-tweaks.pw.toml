@@ -1,0 +1,13 @@
+name = "Audio Engine Tweaks"
+filename = "audio_engine_tweaks-1.2.6-MC1.21.1 build 22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/XjOAF7RF/audio_engine_tweaks-1.2.6-MC1.21.1%20build%2022.jar"
+hash-format = "sha1"
+hash = "86869f06a0d644487f268822232a295a67f16354"
+
+[update]
+[update.modrinth]
+mod-id = "DZ81JNQ1"
+version = "XjOAF7RF"

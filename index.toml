@@ -341,6 +341,11 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
+file = "mods/audio-engine-tweaks.pw.toml"
+hash = "a5efb07954a5615326507e04d645985c78f7e4a09cb117f45d0a770e2a6f8e96"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "029d9a9dfa62cbd5d76701b62ed8b0b835257b0ea9fc2db978198f271014b691"
 metafile = true
@@ -428,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "41d4f86aa2b5ebc5e60164e0120125a38c0ab2595738818c3bb439e96a58ecd6"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+hash = "cd6c5b045ed4ea5aa276ab912248da9bb9631c6fcde03d3b4dc3ab81152e1c88"
 metafile = true
 
 [[files]]
@@ -610,6 +620,11 @@ hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
 metafile = true
 
 [[files]]
+file = "mods/immersive-hotbar.pw.toml"
+hash = "6996598cccd2c94a0cc018f817117737db17081a355e88ba6291aa8635ed84a6"
+metafile = true
+
+[[files]]
 file = "mods/interactic.pw.toml"
 hash = "816282debce91c42a3c91178d65c553704f6bc7ce3bdc9fe4c70a072457f293c"
 metafile = true
@@ -788,6 +803,11 @@ hash = "d80f2086b4893a0d972b6d8c17d7582e50a10bec242ea0a6217b47077602d0a4"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "cd55e9661c494b517b3c1bc5dc7b42c314c39631882f9a4e206fe752e599a58f"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-whisper.pw.toml"
 hash = "bdfab3cf87a21db9efc81f5414bdf56d2d720e09032f355496236e14360663d3"
 metafile = true
@@ -869,6 +889,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d6e22a99e0b73a91cfd528aed964bc8acb001188e76804406b998a19f645fbe1"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "06aa6eb22d7002de4f01e4b03469118fdd2cf824fe203e785bfe22edf889c651"
 metafile = true
 
 [[files]]
